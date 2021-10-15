@@ -103,11 +103,9 @@ public class Welcome extends javax.swing.JFrame {//Welcome Class
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnHelpActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHelpActionPerformed
-        //Personal Shared Link From Source: Youtube
-        //https://www.youtube.com/watch?v=iKcOA9LZD20&list=PLV13dkrfhXKF9lX--F35SsDKUJ2agmm9l
-
+     
         String tutorialURI = "";
-        tutorialURI = "https://www.youtube.com/watch?v=iKcOA9LZD20&list=PLV13dkrfhXKF9lX--F35SsDKUJ2agmm9l";
+        tutorialURI = "https://www.google.com/";
         Desktop thisDesktop = Desktop.getDesktop();
         try {
             try {
