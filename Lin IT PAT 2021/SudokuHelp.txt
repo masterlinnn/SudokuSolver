@@ -1,0 +1,10 @@
+Sudoku puzzles
+Playing Sudoku requires logic, not guesswork, 
+and a substantial knowledge of Sudoku solving techniques. 
+
+What is the technique to solve Sudoku?
+The easiest way to a Sudoku solution is to, 
+Scan rows and columns within each triple-box area, 
+eliminating numbers or squares and finding situations 
+where only a single number can fit into a single square.
+
